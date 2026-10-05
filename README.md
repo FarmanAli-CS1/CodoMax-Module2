@@ -24,3 +24,8 @@ The focus of this module is to learn how to work with real-world datasets and pe
 - **Dataset:** `Countries.csv` & Sample Datasets
 
 ### 📁 Repository Structure
+
+CodoMax-Module2/
+├── CodoMax_Module2.ipynb   # Main Colab notebook
+├── Countries.csv           # Dataset used
+└── README.md               # Project documentation
