@@ -1,15 +1,12 @@
 # CodoMax-Module2
 # CodoMax Module 2 - Data Analysis with Python
 
-> **Intern Workspace:** CodoMax Digital Solution (codomaxdigital.in) 
-> **Module:** 2 (Day 5 - Day 8) 
+> **Module:** 2 (Day 5 - Day 8) | **Platform:**  CodoMax Degital Solution (codomaxdigital.in)
 
 ### 📊 Module Overview
 This repository contains my work for **Module 2: Data Analysis with Python** as part of the CodoMax Digital Solution Internship.
 
-The focus of this module is to learn how to work with real-world datasets and perform data analysis using Python.
-
-### 🎯 What You'll Do (Objectives)
+### 🎯 Objectives
 
 - Learn how to work with datasets using **Pandas and NumPy**
 - Import CSV datasets into **Google Colab**
@@ -21,11 +18,13 @@ The focus of this module is to learn how to work with real-world datasets and pe
 - **Language:** Python
 - **Environment:** Google Colab
 - **Libraries:** Pandas, NumPy
-- **Dataset:** `Countries.csv` & Sample Datasets
+- **Dataset:** [`Countries.csv`](./Countries.csv) & Sample Datasets
 
 ### 📁 Repository Structure
 
+```bash
 CodoMax-Module2/
-├── CodoMax_Module2.ipynb   # Main Colab notebook
-├── Countries.csv           # Dataset used
-└── README.md               # Project documentation
+├── CodoMax_Module2.ipynb  # Main Colab Notebook
+├── Countries.csv          # Dataset used for analysis
+└── README.md              # Project documentation
+
